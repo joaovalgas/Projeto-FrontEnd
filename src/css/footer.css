@@ -1,0 +1,46 @@
+.premium{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    background: linear-gradient(to right, rgb(202, 13, 189), rgb(7, 130, 245) );
+    width: 100%;
+    height: 4.5rem;
+}
+
+.premium .text{
+    font-family: "DM sans", sans-serif;
+    margin-left: 20px;
+    margin-top: 15px;
+    color: #fff;
+}
+
+.text .title{
+    display: flex;
+    align-items:  flex-start;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.text .subtitle{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.button__inscrever{
+    margin:10px 40px;
+    padding: 20px;
+    align-items: center;
+    background-color: #ffff;
+    width: 200px;
+    height: auto;
+    color:#000;
+    font-family: "DM sans", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}

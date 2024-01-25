@@ -29,10 +29,12 @@
 }
 
 .button__inscrever{
-    margin:10px 40px;
-    padding: 20px;
+    display: flex;
+    justify-content: center;
     align-items: center;
     background-color: #ffff;
+    margin:10px 40px;
+    padding: 20px;
     width: 200px;
     height: auto;
     color:#000;

@@ -7,8 +7,8 @@
 
 .header__navigation{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: space-between; 
+    align-items: center; 
     padding: 16px;
     margin: 10px;
     border-radius: 8px;
@@ -91,3 +91,4 @@
     border: none;
     border-radius: 40px;
 }
+
